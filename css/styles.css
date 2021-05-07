@@ -21,7 +21,7 @@ body{
 
 .first-content{
   width: 306px;
-  padding: 48px;
+  padding: 30px;
   border-radius: 8px;
   background: #E28625;
   height: 500px;
@@ -29,7 +29,7 @@ body{
 
 .second-content{
   width: 306px;
-  padding: 48px;
+  padding: 30px;
   border-radius: 8px;
   background: #006971;
   height: 500px;
@@ -37,7 +37,7 @@ body{
 
 .uchinchi-content{
   width: 306px;
-  padding: 48px;
+  padding: 30px;
   border-radius: 8px;
   background: #004140;
   height: 500px;
@@ -183,3 +183,4 @@ border: 1px solid white;
   background-color: #004140;
   color: #F2F2F2 ;
 }
+
